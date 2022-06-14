@@ -47,4 +47,4 @@ Znajdą się tutaj kody źródłowe, schematy, dokumenty wykorzystywane do wykon
 </p>
 
 
-<hr/><h5><b>Start platformy GitHub: 01.07.2021</b></h5>
+<hr/><h5><b>Start platformy GitHub: 01.07.2021</b></h5> <h5><b>Praca obroniona: 31.01.2022</b></h5>
