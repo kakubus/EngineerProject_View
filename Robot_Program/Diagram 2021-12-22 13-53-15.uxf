@@ -1,0 +1,36 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>419</x><y>470</y><w>260</w><h>190</h></coordinates><panel_attributes>template=IP: 192.168.0.1
+Mikrokontroler
+bg=cyan
+--
+Informacje o sieci:
+--
+SSID: ROBO-1
+Hasło: Robot1234
+Brama domyślna: 192.168.0.1
+Maska podsieci: 255.255.255.252
+
+--
+Port nasłuchujący: 60890
+
+Port wysyłający informacje: 1000</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>559</x><y>610</y><w>280</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;.
+bg=yellow</panel_attributes><additional_attributes>10;10;260;10</additional_attributes></element><element><id>Relation</id><coordinates><x>599</x><y>640</y><w>240</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;.
+bg=yellow</panel_attributes><additional_attributes>220;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>819</x><y>470</y><w>260</w><h>190</h></coordinates><panel_attributes>template=IP: 192.168.0.2
+bg=green
+Klient (Operator)
+--
+Informacje o konfiguracji klienta:
+--
+Połączono z: ROBO-1
+
+Brama domyślna: 192.168.0.1
+Maska podsieci: 255.255.255.252
+
+--
+Port wysyłający polecenia: 60890
+
+Port nasłuchujący: 1000</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>669</x><y>550</y><w>110</w><h>40</h></coordinates><panel_attributes>lt=.
+WiFi
+802.11b/g/n
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>379</x><y>430</y><w>740</w><h>270</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>650</x><y>620</y><w>140</w><h>30</h></coordinates><panel_attributes>valign=center
+halign=center
+Przepływ danych</panel_attributes><additional_attributes></additional_attributes></element></diagram>
