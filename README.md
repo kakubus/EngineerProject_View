@@ -28,7 +28,13 @@ Znajdą się tutaj kody źródłowe, schematy, dokumenty wykorzystywane do wykon
 <h3><p align="center">Faza 2 - Konstruowanie. Ukończona (100%)</p></h3>
 <h3><p align="center">Faza 3 - Programowanie. Ukończona (100%)</p></h3>
 <h3><p align="center">Faza 4 - Dokumentacja. Ukończona (100%)</p></h3>
-<hr/
+<hr/>
+<h3>Struktura repozytorium:</h4>
+<ul>
+<li>Folder <b><i>Files</i></b> - Znajduje się tam Praca Inżynierska, filmy przedstawiające pojazd i innego rodzaju dokumentacje. <br/></li>
+<li>Folder <b><i>RobotProgram</i></b> - Znajduje się tam kod źródłowy programu sterownika robota.</li>
+</ul>
+<hr/>
 <b>Prezentowana platforma mobilna:</b>
 </br></br>
 
