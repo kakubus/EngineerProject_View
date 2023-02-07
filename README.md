@@ -19,6 +19,7 @@ Kierunek: Automatyka i Robotyka. Specjalność: Technologie informacyjne</h5>
 
 Platforma GitHub jest wykorzystywana jako miejsce kopii zapasowych oraz główne repozytorium tego projektu.
 Znajdą się tutaj kody źródłowe, schematy, dokumenty wykorzystywane do wykonania projektu.
+W repozytorium <i>[EngineerProject_App](https://github.com/kakubus/EngineerProject_App)</i> znajduje się multiplatformowa aplikacja sterująca (2022-2023).
 
 
 
