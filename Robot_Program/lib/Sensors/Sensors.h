@@ -96,9 +96,10 @@ void acc_sensor(IMU &dataIMU)
     Serial.println(" rad/s");
   */
 }
-
+/*
 float usonic_sensor()  // Funkcja mierząca odległość | Function for measurement distance
 {
   return distanceSensor.measureDistanceCm();
 }
-
+*/
+ 

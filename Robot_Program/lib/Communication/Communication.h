@@ -18,8 +18,8 @@
 unsigned long int sendData_millis = 0;
 
 char ssid[] = "ROBO-1";         //Nazwa SSID sieci | Name of created network
-char password[] = "Robot0000";  //Hasło do sieci | Network password
-int communication_port = 1000;  //Port komunikacyjny (wysyłający dane) 
+char password[] = "Robot1234";  //Hasło do sieci | Network password
+int communication_port = 1000;  //Port komunikacyjny (odbierający dane) 
 
 
 char masterAPP_IP [] = "192.168.0.2"; //Adres ip dla aplikacji sterującej na zdalnym hoscie | IP Address for remote controller
